@@ -14,6 +14,9 @@ til_button = ReplyKeyboardMarkup(
         [
             KeyboardButton(text="latin-kores"),
             KeyboardButton(text="kores-latin"),
+        ],
+        [
+            KeyboardButton(text="☎️Admin"),
         ]
         
     ],
